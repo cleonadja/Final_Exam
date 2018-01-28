@@ -15,3 +15,4 @@ Given that we seek a classification model a good naive benchmark would be to gue
 ###Evaluation Metrics
 Given that this is a classification task, and the most common class is in line with the mean of the dataset we can measure the success of our model using the F1 Score or the accuracy.
 # Final_Exam
+# Final_Exam
