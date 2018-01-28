@@ -14,3 +14,4 @@ A solution to this problem will be a classification model such as a logistic reg
 Given that we seek a classification model a good naive benchmark would be to guess the most common class or the mean as they are almost the same in this dataset.
 ###Evaluation Metrics
 Given that this is a classification task, and the most common class is in line with the mean of the dataset we can measure the success of our model using the F1 Score or the accuracy.
+# Final_Exam
