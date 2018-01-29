@@ -1,5 +1,3 @@
-# Final_Exam
-
 ## Abalone Dataset
 
 ### Domain
